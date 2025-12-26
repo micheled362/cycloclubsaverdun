@@ -7,4 +7,7 @@ theme: minima
 
 minima:
   skin: classic
+
+show_excerpts: false
+
   
