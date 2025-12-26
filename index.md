@@ -7,10 +7,5 @@
 #
 layout: home
 ---
-# cycloclubsaverdun
 
-## Accueil
-
-## Membres
-
-## Contact
+Bienvenue
