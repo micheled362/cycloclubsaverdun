@@ -5,3 +5,4 @@ permalink: /contact/
 ---
 
 Contacts du club
+Joël PEYRE
