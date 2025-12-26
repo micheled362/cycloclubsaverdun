@@ -8,7 +8,7 @@ minima:
   nav_pages:
     - about.md
     - contact.md
-    - parcours.html
+    - parcours.md
 show_excerpts: false
 
   
