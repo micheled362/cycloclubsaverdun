@@ -12,7 +12,7 @@ sass:
 collections:
   posts:
     output          : true
-theme: jekyll-theme-minimal
+theme: minima
 
 # Handling Reading
 safe                : false
