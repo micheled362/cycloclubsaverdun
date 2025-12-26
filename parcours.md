@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Parcours
 ---
 
 <body lang=FR style='tab-interval:35.4pt;word-wrap:break-word'>
@@ -13,5 +14,6 @@ layout: page
 </div>
 
 </body>
+
 
 
