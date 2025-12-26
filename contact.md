@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 Contacts du club
